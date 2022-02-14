@@ -1,0 +1,24 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dattran306/FunixNodeJS.git"
+  },
+  "author": "Dat Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dattran306/FunixNodeJS/issues"
+  },
+  "homepage": "https://github.com/dattran306/FunixNodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
