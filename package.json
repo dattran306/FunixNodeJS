@@ -20,5 +20,8 @@
   "homepage": "https://github.com/dattran306/FunixNodeJS#readme",
   "devDependencies": {
     "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
   }
 }
